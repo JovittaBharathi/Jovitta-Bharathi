@@ -20,7 +20,7 @@ I’m an upskilled Data Analyst with hands‑on experience in transforming raw d
 
 <h2 style="font-size:26px;">🛠️ Technical Skills</h2>
 <p style="font-size:16px;">
-<b>Power BI:</b> Data modeling, DAX, KPI dashboards
+<b>Power BI:</b> Data modelling, DAX, KPI dashboards
 <br>
 <b>Excel:</b> Power Query, Pivot Tables, automation
 <br>
